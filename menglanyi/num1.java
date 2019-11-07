@@ -1,4 +1,4 @@
-package leetcode;
+
 
 import jdk.nashorn.internal.runtime.logging.Logger;
 
