@@ -1,1 +1,3 @@
 sqlalchemy中的session  sessionmaker  scoped_session：https://www.cnblogs.com/ChangAn223/p/11277468.html#%E4%B8%80%E3%80%81%E5%85%B3%E4%BA%8E-session
+
+Using Connection Pools with Multiprocessing：https://docs.sqlalchemy.org/en/13/core/pooling.html#using-connection-pools-with-multiprocessing
